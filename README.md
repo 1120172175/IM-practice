@@ -6,10 +6,16 @@
 大家需要先在linux的终端上安装git
 
 然后运行下面的命令将项目下载下来
-```git clone https://github.com/1120172175/Linpop.git
+
+```
+git clone https://github.com/1120172175/Linpop.git
+```
 
 运行脚本即可编译运行（也可以直接运行可执行文件）
+
+```
 ./run.sh
+```
 
 
 
